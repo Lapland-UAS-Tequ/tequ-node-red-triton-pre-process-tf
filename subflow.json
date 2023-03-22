@@ -2,7 +2,7 @@
     "id": "8c76f2288b38ba3b",
     "type": "subflow",
     "name": "Pre-process [TF]",
-    "info": "Pre-processes image for inference.\r\n\r\nSupports object detection models trained using:\r\n- Tequ TF2 training pipeline\r\n- Microsoft Custom Vision (Compact S1) ",
+    "info": "Pre-processes image for inference.\r\n\r\nSupports object detection models trained using:\r\n- Tequ TF2 training pipeline\r\n- Microsoft Custom Vision (Compact S1) \r\n\r\nhttps://github.com/Lapland-UAS-Tequ/tequ-tf2-ca-training-pipeline\r\n\r\nSupports object detection models from Tensorflow 2 Detection Model Zoo\r\n- SSD MobileNet v2 320x320\r\n- SSD MobileNet V2 FPNLite 320x320\r\n- SSD MobileNet V2 FPNLite 640x640\r\n\r\nhttps://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md\r\n\r\nDependencies\r\n- https://www.npmjs.com/package/@tensorflow/tfjs-node-gpu",
     "category": "Tequ",
     "in": [
         {
