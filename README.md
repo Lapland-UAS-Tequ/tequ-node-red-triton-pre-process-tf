@@ -7,7 +7,7 @@ Pre-process data for NVIDIA Triton Inference Server.
 
 Run the following command in your Node-RED user directory - typically `~/.node-red`
 
-        npm install tequ-node-red-triton-pre-process-tf
+        npm install Lapland-UAS-Tequ/tequ-node-red-triton-pre-process-tf
 
 ## Information
 
